@@ -18,3 +18,14 @@ Frameworks: React, Tailwind, Node.js, Express.
 Bases de Datos: MySQL.
 
 Herramientas: Git, XAMPP.
+
+_______________________________________________________________________________________________
+
+
+Por: Ricardo Felipe Mariño Perdomo
+
+Ingeniero de sistemas
+
+ricardo_felipe85@outlook.com
+
+LinkedIn: www.linkedin.com/in/ricardo-felipe-perdomo-165012262
